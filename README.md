@@ -8,6 +8,7 @@ Development in progress:
 Discussion Forum
 
 Rules of Life Database
+- Negentropy sustains life
 - All living things must grow
 
 Algorithm
@@ -18,3 +19,6 @@ Long Lived Organisms Database
 
 Quantum Mechanics for Immortality
 
+
+Disease Research
+- Lyme Disease
