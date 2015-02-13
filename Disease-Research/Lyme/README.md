@@ -21,17 +21,20 @@ https://www.youtube.com/watch?v=FEjNMlNM3l8
 
 TODO
 ====
-* Systematic data collection of unique users (based on email kept anonymous) of 
-- symptoms
-- treatments
-- diagnostics
-- DNA results
-- user biological profile
-- user environment
-- dates
+* Systematic data collection of unique users (based on email / IP address kept anonymous) of 
+  - symptoms  
+  - treatments
+  - response to treatments
+  - diagnostics
+  - DNA results
+  - user biological profile
+  - user environment
+  - dates
 
 Implementation in Mongo, Express, Angular, Node.JS 
 Plans for backend in Python.
+
+Users would be able to update their information.  Changes would be tracked by dates.  Users would be notified how their changes affect the data analysis.
 
 Documentaries about Lyme
 ========================
