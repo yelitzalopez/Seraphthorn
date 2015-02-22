@@ -1,4 +1,4 @@
-Bourn Virus
+Bourbon Virus
 ===========
 A new virus spread through tick or other insect bites.
 
