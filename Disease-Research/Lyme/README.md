@@ -25,7 +25,9 @@ TODO
   - symptoms  
   - treatments
   - response to treatments
-  - diagnostics
+  - diagnosis
+  -   bacteria
+  -   virus
   - DNA results
   - user biological profile
   - user environment
@@ -48,3 +50,11 @@ https://www.youtube.com/watch?v=6djL18mfXj8
 
 Daryl Hall
 https://www.youtube.com/watch?v=wwY26RIWSpU
+
+REFERENCES
+==========
+Viruses
+Bourbon Virus
+http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
+Heartland Virus
+http://www.cdc.gov/ncezid/dvbd/heartland/
