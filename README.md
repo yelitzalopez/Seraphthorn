@@ -10,6 +10,7 @@ Discussion Forum
 Rules of Life Database
 - Negentropy sustains life
 - All living things must grow
+- Must avoid sterility resulting from hybridization of long lived organisms
 
 Algorithm
 
