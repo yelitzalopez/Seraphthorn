@@ -23,3 +23,9 @@ Quantum Mechanics for Immortality
 
 Disease Research
 - Lyme Disease
+
+
+Technology
+- Meteor
+- Scala Angular Node.js
+- Python
