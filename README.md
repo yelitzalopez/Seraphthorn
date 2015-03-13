@@ -14,9 +14,8 @@ Rules of Life Database
 
 Algorithm
 
-DNA Database
-- Genome
-- noncoding (aka "junk") DNA
+Genome Database
+- genes and non-coding (aka "junk") in RNA/DNA
 
 Questions/Answers for Artificial Intelligence (example: IBM Watson)
 - How do immortals adapt to a changing environment?
@@ -40,4 +39,6 @@ Technology
 
 
 REFERENCES
-http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
+- http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
+
+- http://en.wikipedia.org/wiki/Genetic_engineering
