@@ -17,6 +17,9 @@ Algorithm
 Genome Database
 - genes and non-coding (aka "junk") in RNA/DNA
 
+Individual Classification System
+- http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089142
+
 Questions/Answers for Artificial Intelligence (example: IBM Watson)
 - How do immortals adapt to a changing environment?
 - How do immortals diverge from mortals?
