@@ -11,6 +11,7 @@ Rules of Life Database
 - Negentropy sustains life
 - All living things must grow
 - Must avoid extinction (e.g., sterility, inviability) resulting from hybridization of long lived organisms
+- Use recombination to get rid of bad mutations from a population
 
 Algorithm
 
