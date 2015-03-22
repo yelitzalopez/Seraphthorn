@@ -28,6 +28,11 @@ Questions/Answers for Artificial Intelligence (example: IBM Watson)
 Long Lived Organisms Database
 - http://en.wikipedia.org/wiki/List_of_longest-living_organisms
 
+Short Lived Organisms Database and Lab subjects
+- http://en.wikipedia.org/wiki/Caenorhabditis_elegans
+- http://akorra.com/2010/03/04/top-10-shortest-living-organisms/
+- http://www.nytimes.com/2015/03/03/science/in-short-lived-fish-secrets-to-aging.html?_r=0
+
 Quantum Mechanics for Immortality
 - Molecular clock
 
@@ -46,3 +51,4 @@ REFERENCES
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
 
 - http://en.wikipedia.org/wiki/Genetic_engineering
+- http://www.nytimes.com/2015/03/20/science/biologists-call-for-halt-to-gene-editing-technique-in-humans.html
