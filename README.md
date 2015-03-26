@@ -1,5 +1,5 @@
 # Seraphthorn
-The Seraphthorn Project (Quest for Physical Immortality)
+The Seraphthorn Project (Quest for Biological Immortality - formerly Quest for Physical Immortality)
 http://www.seraphthorn.com
 
 Pull requests welcome!
@@ -52,3 +52,4 @@ REFERENCES
 
 - http://en.wikipedia.org/wiki/Genetic_engineering
 - http://www.nytimes.com/2015/03/20/science/biologists-call-for-halt-to-gene-editing-technique-in-humans.html
+- http://en.wikipedia.org/wiki/Biological_immortality
