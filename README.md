@@ -13,6 +13,7 @@ Rules of Life Database
 - Must avoid extinction (e.g., sterility, inviability) resulting from hybridization of long lived organisms
 - Use recombination to get rid of bad mutations from a population
 - Adapt to a predicted environment
+- Teach cells how to avoid death similar to how vaccines work
 
 Algorithm
 
@@ -68,3 +69,4 @@ REFERENCES
 
 INSPIRATION
 - https://www.ted.com/talks/harvey_fineberg_are_we_ready_for_neo_evolution#t-684756 (watched April 5, 2015)
+- https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life (watched April 5, 2015, 5:50pm EST)
