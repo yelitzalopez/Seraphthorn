@@ -12,8 +12,11 @@ Rules of Life Database
 - All living things must grow
 - Must avoid extinction (e.g., sterility, inviability) resulting from hybridization of long lived organisms
 - Use recombination to get rid of bad mutations from a population
+- Adapt to a predicted environment
 
 Algorithm
+
+Environment Prediction System
 
 Genome Database
 - genes and non-coding (aka "junk") in RNA/DNA
@@ -53,3 +56,15 @@ REFERENCES
 - http://en.wikipedia.org/wiki/Genetic_engineering
 - http://www.nytimes.com/2015/03/20/science/biologists-call-for-halt-to-gene-editing-technique-in-humans.html
 - http://en.wikipedia.org/wiki/Biological_immortality
+- https://class.coursera.org/genomicmedicine-002
+- https://d396qusza40orc.cloudfront.net/genomicmedicine/McCarthy-GenomicMedicineADecade.pdf
+- Allele Frequency in General Population:
+  * www.1000genomes.org
+  * dbSNP
+- Prior association of gene with disease:
+  * http://www.ncbi.nlm.nih.gov/omim
+  * https://www.ncbi.nlm.nih.gov/clinvar/
+  * http://www.hgvs.org/dblist/dblist.html
+
+INSPIRATION
+- https://www.ted.com/talks/harvey_fineberg_are_we_ready_for_neo_evolution#t-684756 (watched April 5, 2015)
