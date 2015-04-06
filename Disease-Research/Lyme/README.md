@@ -51,6 +51,9 @@ https://www.youtube.com/watch?v=6djL18mfXj8
 Daryl Hall
 https://www.youtube.com/watch?v=wwY26RIWSpU
 
+Avril Lavigne
+http://www.washingtonpost.com/news/to-your-health/wp/2015/04/02/avril-lavigne-fights-severe-case-of-lyme-disease/
+
 REFERENCES
 ==========
 Viruses
