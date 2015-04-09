@@ -56,8 +56,10 @@ http://www.washingtonpost.com/news/to-your-health/wp/2015/04/02/avril-lavigne-fi
 
 REFERENCES
 ==========
-Viruses
-Bourbon Virus
-http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
-Heartland Virus
-http://www.cdc.gov/ncezid/dvbd/heartland/
+- Viruses
+    Bourbon Virus
+    http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
+    Heartland Virus
+    http://www.cdc.gov/ncezid/dvbd/heartland/
+- Cutting edge research
+    http://borreliabase.org/
