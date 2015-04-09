@@ -45,21 +45,21 @@ https://www.youtube.com/watch?v=2JgR_Jfbhv8
 
 Celebrities affected by Lyme
 ============================
-Yolanda Foster
-https://www.youtube.com/watch?v=6djL18mfXj8
+* Yolanda Foster
+* https://www.youtube.com/watch?v=6djL18mfXj8
 
-Daryl Hall
-https://www.youtube.com/watch?v=wwY26RIWSpU
+* Daryl Hall
+* https://www.youtube.com/watch?v=wwY26RIWSpU
 
-Avril Lavigne
-http://www.washingtonpost.com/news/to-your-health/wp/2015/04/02/avril-lavigne-fights-severe-case-of-lyme-disease/
+* Avril Lavigne
+* http://www.washingtonpost.com/news/to-your-health/wp/2015/04/02/avril-lavigne-fights-severe-case-of-lyme-disease/
 
 REFERENCES
 ==========
 - Viruses
-    Bourbon Virus
-    http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
-    Heartland Virus
-    http://www.cdc.gov/ncezid/dvbd/heartland/
+    * Bourbon Virus
+    * http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
+    * Heartland Virus
+    * http://www.cdc.gov/ncezid/dvbd/heartland/
 - Cutting edge research
-    http://borreliabase.org/
+    * http://borreliabase.org/
