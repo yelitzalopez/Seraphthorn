@@ -60,6 +60,7 @@ Resources
 - Pharmacogenomics Testing and Dosing
    * https://www.pharmgkb.org/page/cpic
    * https://www.pharmgkb.org/
+
 REFERENCES
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
 
