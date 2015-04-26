@@ -54,9 +54,9 @@ Technology
 - Twitter Fabric
 
 Resources
-    Clinical Validity and Utility
-    - http://currents.plos.org/
-    - http://www.hugenavigator.net/GAPPKB/home.do
+- Clinical Validity and Utility
+    * http://currents.plos.org/
+    * http://www.hugenavigator.net/GAPPKB/home.do
 
 REFERENCES
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
