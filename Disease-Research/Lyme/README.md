@@ -38,6 +38,17 @@ Plans for backend in Python.
 
 Users would be able to update their information.  Changes would be tracked by dates.  Users would be notified how their changes affect the data analysis.
 
+Diagnostics
+===========
+* Low white blood cell count
+    - Low Neutrophil
+
+Treatments
+==========
+* Most important is Good hygiene (e.g., wash hands, keep clean, practice food safety) because of weak immune system
+* Diet: Quality proteins and fresh whole foods (organic vegetables and fruit).  See Registered Dietitian.
+
+
 Documentaries about Lyme
 ========================
 Under Our Skin
@@ -63,3 +74,7 @@ REFERENCES
     * http://www.cdc.gov/ncezid/dvbd/heartland/
 - Cutting edge research
     * http://borreliabase.org/
+
+- Low White Blood Cell and Diet
+    * https://www.oncologynutrition.org/erfc/eating-well-when-unwell/white-blood-count-diet/
+    * http://www.cancer.org/treatment/childrenandcancer/whenyourchildhascancer/nutritionforchildrenwithcancer/nutrition-for-children-with-cancer-low-white-blood-counts
