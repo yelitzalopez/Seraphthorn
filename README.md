@@ -15,6 +15,9 @@ Rules of Life Database
 - Adapt to a predicted environment
 - Teach cells how to avoid death similar to how vaccines work
 
+Observations
+- Older people have more experience and accumulation of mutations and diseases (In order to get younger, does the body need to unlearn certain unwanted information?)
+
 Algorithm
 
 Environment Prediction System
@@ -60,6 +63,7 @@ Resources
 - Pharmacogenomics Testing and Dosing
    * https://www.pharmgkb.org/page/cpic
    * https://www.pharmgkb.org/
+
 
 REFERENCES
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
