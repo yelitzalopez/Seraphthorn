@@ -9,3 +9,7 @@ http://www.northwestern.edu/newscenter/stories/2015/04/telomere-changes-predict-
 
 Capping telomeres:
 http://www.sciencetimes.com/articles/6305/20150514/new-therapy-strips-cancer-cells-of-their-immortality.htm
+
+How a childhood vaccine reduces risk of cancer:
+http://well.blogs.nytimes.com/2015/05/20/scientists-unravel-how-a-vaccine-reduces-risk-of-a-cancer/
+http://www.nature.com/ni/journal/vaop/ncurrent/full/ni.3160.html
