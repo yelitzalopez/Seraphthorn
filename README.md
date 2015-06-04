@@ -64,7 +64,7 @@ Resources
    * https://www.pharmgkb.org/page/cpic
    * https://www.pharmgkb.org/
 
-- Medicine by Design
+- Medicines by Design
    * http://publications.nigms.nih.gov/medbydesign/
 
 REFERENCES
