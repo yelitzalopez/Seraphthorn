@@ -64,6 +64,8 @@ Resources
    * https://www.pharmgkb.org/page/cpic
    * https://www.pharmgkb.org/
 
+- Medicine by Design
+   * http://publications.nigms.nih.gov/medbydesign/
 
 REFERENCES
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
