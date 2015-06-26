@@ -86,3 +86,7 @@ REFERENCES
 INSPIRATION
 - https://www.ted.com/talks/harvey_fineberg_are_we_ready_for_neo_evolution#t-684756 (watched April 5, 2015)
 - https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life (watched April 5, 2015, 5:50pm EST)
+
+NEWS
+Cancer Drug lengthens fly lifespan (Investigation of cancer associated Ras proteins in ageing)
+- http://www.nature.com/news/cancer-drug-lengthens-fly-lifespan-1.17851?WT.mc_id=TWT_NatureNews
