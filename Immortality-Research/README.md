@@ -8,8 +8,9 @@ Experiment proposal:
 
 
 REFERENCES
+
 Cloning horses
-http://www.vanityfair.com/news/2015/07/polo-horse-cloning-adolfo-cambiaso
+    http://www.vanityfair.com/news/2015/07/polo-horse-cloning-adolfo-cambiaso
 
 Cloning pets
-http://www.bloomberg.com/bw/articles/2014-10-22/koreas-sooam-biotech-is-the-worlds-first-animal-cloning-factory
+    http://www.bloomberg.com/bw/articles/2014-10-22/koreas-sooam-biotech-is-the-worlds-first-animal-cloning-factory
