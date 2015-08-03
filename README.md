@@ -68,6 +68,9 @@ Resources
    * http://publications.nigms.nih.gov/medbydesign/
 
 REFERENCES
+- Mitochondria's role in longevity
+   * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3468885/
+
 - http://www.nytimes.com/2015/03/08/magazine/is-most-of-our-dna-garbage.html?_r=0
 
 - http://en.wikipedia.org/wiki/Genetic_engineering
