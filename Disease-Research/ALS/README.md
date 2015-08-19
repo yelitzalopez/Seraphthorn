@@ -1,4 +1,4 @@
->90% caused by environnmental toxins
+>90% caused by environnmental toxins and 
 < 5-10% cause by a defective gene
 
 "A fraction of all cases of familial ALS (that is, inherited ALS) is believed to be caused by a defective gene 
