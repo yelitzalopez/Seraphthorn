@@ -43,6 +43,9 @@ Short Lived Organisms Database and Lab subjects
 - http://akorra.com/2010/03/04/top-10-shortest-living-organisms/
 - http://www.nytimes.com/2015/03/03/science/in-short-lived-fish-secrets-to-aging.html?_r=0
 
+Multi-Cause of Mortality in US Database
+- http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm#Mortality_Multiple
+
 Quantum Mechanics for Immortality
 - Molecular clock
 
