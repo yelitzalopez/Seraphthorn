@@ -48,6 +48,7 @@ Multi-Cause of Mortality in US Database
 
 Quantum Mechanics for Immortality
 - Molecular clock
+- Nanowires from Proteins and DNA    http://phys.org/news/2015-09-nanowires-protein-dna.html
 
 Disease Research
 - Lyme Disease
@@ -58,6 +59,9 @@ Technology
 - Scala Angular Node.js
 - Python
 - Twitter Fabric
+- IBM Watson (Cognitive Problem Solver)
+- A.I.
+
 
 Resources
 - Pharmacogenomics Clinical Validity and Utility
@@ -89,9 +93,11 @@ REFERENCES
   * https://www.ncbi.nlm.nih.gov/clinvar/
   * http://www.hgvs.org/dblist/dblist.html
 
+
 INSPIRATION
 - https://www.ted.com/talks/harvey_fineberg_are_we_ready_for_neo_evolution#t-684756 (watched April 5, 2015)
 - https://www.ted.com/talks/craig_venter_is_on_the_verge_of_creating_synthetic_life (watched April 5, 2015, 5:50pm EST)
+- https://www.simonsfoundation.org/lecture/visualizing-quantum-matter/
 
 NEWS
 Cancer Drug lengthens fly lifespan (Investigation of cancer associated Ras proteins in ageing)
