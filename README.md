@@ -62,6 +62,8 @@ Technology
 - IBM Watson (Cognitive Problem Solver)
 - A.I.
 
+Complex Problem Solving
+- http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1118&context=jps
 
 Resources
 - Pharmacogenomics Clinical Validity and Utility
