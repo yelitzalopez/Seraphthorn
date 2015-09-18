@@ -50,6 +50,10 @@ Quantum Mechanics for Immortality
 - Molecular clock
 - Nanowires from Proteins and DNA    http://phys.org/news/2015-09-nanowires-protein-dna.html
 
+
+- Body's circadian rhythm
+https://www.quantamagazine.org/20150915-circadian-clocks/
+
 Disease Research
 - Lyme Disease
 
