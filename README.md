@@ -65,6 +65,11 @@ Technology
 Complex Problem Solving
 - http://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1118&context=jps
 
+
+Personal Life Purpose Analysis
+- AI essay analysis of your life's purpose
+
+
 Resources
 - Pharmacogenomics Clinical Validity and Utility
     * http://currents.plos.org/
