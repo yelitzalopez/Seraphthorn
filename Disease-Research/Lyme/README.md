@@ -38,6 +38,10 @@ Plans for backend in Python.
 
 Users would be able to update their information.  Changes would be tracked by dates.  Users would be notified how their changes affect the data analysis.
 
+Research
+========
+* Nano-robots to locate and target the Lyme bacteria 
+
 Diagnostics
 ===========
 * Low white blood cell count
@@ -67,6 +71,9 @@ Celebrities affected by Lyme
 
 REFERENCES
 ==========
+- Nano-bots
+-   * Challenges of nanobots: http://www.theatlantic.com/technology/archive/2015/08/nanobot-treatment-doctors-cancer/400613/
+-   * Hep C target: http://www.gizmag.com/nanoparticles-hepatitis-c-university-florida/23379/
 - Viruses
     * Bourbon Virus
     * http://www.huffingtonpost.com/2014/12/24/bourbon-virus-tick-kansas_n_6377932.html
