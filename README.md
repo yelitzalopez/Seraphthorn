@@ -64,6 +64,15 @@ Technology
 - Python
 - Twitter Fabric
 - IBM Watson (Cognitive Problem Solver)
+   1. Concept Extraction
+   2. Alchemy API
+   http://www.alchemyapi.com/products/alchemydata-news
+   3. NLP
+   
+   IBM Terminologies:
+   (concepts vs. entities)
+   Corpus --> industry specific collections (e.g., health)
+
 - A.I.
 
 Complex Problem Solving
