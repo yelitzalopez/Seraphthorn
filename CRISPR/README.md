@@ -7,6 +7,12 @@ https://www.indiegogo.com/projects/amino-desktop-bioengineering-for-everyone#/
 
 
 
+
+Everything you need to know about CRISPR:
+  http://www.technologyreview.com/news/543941/everything-you-need-to-know-about-crispr-gene-editings-monster-year/
+
+
+
 http://crispr.mit.edu/
 
 US Patent
