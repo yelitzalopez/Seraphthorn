@@ -1,7 +1,12 @@
-CRISPR
+CRISPR-Cas9 Technology
 
 Anyone with a basic molecular biology training can use CRISPR-Cas9. -- Jennifer Doudna
 
+Fundamental to Biology's IT Toolbox
+* DNA structure/sequencing
+* Restriction enzymes
+* PCR
+* Genome editing
 
 
 Do it yourself genetic engineering
