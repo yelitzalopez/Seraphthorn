@@ -15,14 +15,22 @@ Do it yourself genetic engineering
 
   https://www.indiegogo.com/projects/amino-desktop-bioengineering-for-everyone#/
 
-
-
-
 Everything you need to know about CRISPR:
   http://www.technologyreview.com/news/543941/everything-you-need-to-know-about-crispr-gene-editings-monster-year/
 
 
+CHALLENGES
+----------
+Genomic engineering with CRISPR-Cas9
+* Predicting effects of genetic changes (33:51/46:15)
+* Genetic code is the same in bacteria and humans.  Predicting protein folding in 3D of 20 different primary amino acids.  There are emergent properties based on folding (40:00/46:15)
+
+  https://www.youtube.com/watch?v=SuAxDVBt7kQ
+
+
+
 REFERENCES
+----------
 http://crispr.mit.edu/
 
 US Patent
