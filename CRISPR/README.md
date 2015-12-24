@@ -25,7 +25,7 @@ Genomic engineering with CRISPR-Cas9
 * Predicting effects of genetic changes (33:51/46:15)
 * Genetic code is the same in bacteria and humans.  Predicting protein folding in 3D of 20 different primary amino acids.  There are emergent properties based on folding (40:00/46:15)
 
-  https://www.youtube.com/watch?v=SuAxDVBt7kQ
+  https://www.youtube.com/watch?v=p-t5VrCtY1Q
 
 
 
@@ -38,7 +38,6 @@ US Patent
   http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8,697,359.PN.&OS=PN/8,697,359&RS=PN/8,697,359
 
 Genomic engineering with CRISPR-Cas9
-Challenges of predicting effects of genetic changes (33:51/46:15)
 
   https://www.youtube.com/watch?v=SuAxDVBt7kQ
 
