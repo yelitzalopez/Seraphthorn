@@ -24,6 +24,7 @@ CHALLENGES
 Genomic engineering with CRISPR-Cas9
 * Predicting effects of genetic changes (33:51/46:15)
 * Genetic code is the same in bacteria and humans.  Predicting protein folding in 3D of 20 different primary amino acids.  There are emergent properties based on folding (40:00/46:15)
+* IP opportunities in improvements to designing guide RNA molecules and to modify the enzymes itself (45:00/46:15)
 
   https://www.youtube.com/watch?v=p-t5VrCtY1Q
 
@@ -40,4 +41,9 @@ US Patent
 Genomic engineering with CRISPR-Cas9
 
   https://www.youtube.com/watch?v=SuAxDVBt7kQ
+  
+
+Education on CRISPR
+
+  https://innovativegenomics.org/
 
