@@ -8,6 +8,9 @@ Fundamental to Biology's IT Toolbox
 * PCR
 * Genome editing
 
+Workflow
+
+  http://dharmacon.gelifesciences.com/uploadedFiles/Resources/edit-r-experimental-workflow-appnote.pdf
 
 Do it yourself genetic engineering
 
