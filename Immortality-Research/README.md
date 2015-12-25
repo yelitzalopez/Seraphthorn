@@ -1,5 +1,6 @@
 My hypothesis is that we need to manipulate the energy from Mitochondria using computer algorithms and testing environment for longevity.  My guess is that it is a complicated algorithm.  :)
 
+
 "mitochondria are responsible for the production of cellular energy by generating ATP through the electron transport chain (ETC) located on the inner mitochondrial membrane" -- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3468885/
 
 ===========================================================================================================================
@@ -24,3 +25,8 @@ Cloning horses
 
 Cloning pets
     http://www.bloomberg.com/bw/articles/2014-10-22/koreas-sooam-biotech-is-the-worlds-first-animal-cloning-factory
+
+
+Recent news (unconfirmed for validity)
+
+  http://www.techtimes.com/articles/116133/20151215/new-study-shows-common-chemical-methylene-blue-can-reverse-progeria-symptoms.htm
