@@ -12,6 +12,21 @@ https://www.sanger.ac.uk/resources/software/act/
 http://datamonkey.org/
 
 
+
+
+Data Science
+============
+Visualization
+
+https://github.com/mbostock/d3/wiki/Gallery
+
+
+
+Examples:
+
+  http://www.enpicom.com/visual-lab/tcga-exploration/embed/
+
+
 REFERENCES
 https://www.coursera.org/learn/bioinformatics-methods-1/lecture/hb3ap/lecture
 30:08/32:28
