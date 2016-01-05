@@ -15,18 +15,29 @@ Experiment proposal:
 
 
 REFERENCES
+CLOCK
+PASD1
+
+    https://www.quantamagazine.org/20150915-circadian-clocks/
+
+Clock Mutants of Drosophila melanogaster
+
+    http://www.pnas.org/content/68/9/2112.full.pdf
 
 Mitochondria plays a key role in longevity
+
     http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3468885/
 
 
 Cloning horses
+
     http://www.vanityfair.com/news/2015/07/polo-horse-cloning-adolfo-cambiaso
 
 Cloning pets
+
     http://www.bloomberg.com/bw/articles/2014-10-22/koreas-sooam-biotech-is-the-worlds-first-animal-cloning-factory
 
 
 Recent news (unconfirmed for validity)
 
-  http://www.techtimes.com/articles/116133/20151215/new-study-shows-common-chemical-methylene-blue-can-reverse-progeria-symptoms.htm
+    http://www.techtimes.com/articles/116133/20151215/new-study-shows-common-chemical-methylene-blue-can-reverse-progeria-symptoms.htm
