@@ -1,4 +1,5 @@
 CRISPR-Cas9 Technology
+======================
 
 Anyone with a basic molecular biology training can use CRISPR-Cas9. -- Jennifer Doudna
 
@@ -9,8 +10,28 @@ Fundamental to Biology's IT Toolbox
 * Genome editing
 
 Workflow
+========
 
   http://dharmacon.gelifesciences.com/uploadedFiles/Resources/edit-r-experimental-workflow-appnote.pdf
+
+
+Q / A
+-----
+
+What are the steps to using CRISPR and public databases such as DDBJ (Japan), ENA (Europe), or GenBank (USA)?
+
+  https://groups.google.com/forum/#!topic/crispr/rHlezKrFgBM
+  
+How to use A.I. in this complex problem?
+  I'm starting by recording my steps in this research.
+  
+  I asked the community for simple steps to using http://crispr.mit.edu/ and http://www.ncbi.nlm.nih.gov/gene
+
+  I didn't have a clue on how to start.  I don't understand all the responses for my question so I started researching their responses by selecting words from the comments, searching those words on Google's search engine and reading about it from various sources, clicking on all the links on the http://www.ncbi.nlm.nih.gov/gene website to better understand what I'm looking for.  I googled my own question and found some answers but I still don't have the steps yet.  Now I'm crafting a response for the comments from the community.
+  
+What is cDNA?
+
+  "The term cDNA is also used, typically in a bioinformatics context, to refer to an mRNA transcript's sequence, expressed as DNA bases (GCAT) rather than RNA bases (GCAU)." -- https://en.wikipedia.org/wiki/Complementary_DNA
 
 Do it yourself genetic engineering
 
