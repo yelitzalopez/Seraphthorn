@@ -122,3 +122,10 @@ INSPIRATION
 NEWS
 Cancer Drug lengthens fly lifespan (Investigation of cancer associated Ras proteins in ageing)
 - http://www.nature.com/news/cancer-drug-lengthens-fly-lifespan-1.17851?WT.mc_id=TWT_NatureNews
+
+
+EDUCATION
+
+- https://www.coursera.org/learn/bioinformatics-methods-1/
+
+
