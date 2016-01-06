@@ -10,8 +10,8 @@ http://www.ncbi.nlm.nih.gov/gene/139135
 BMAL1 or BMAL2
 http://www.ncbi.nlm.nih.gov/pubmed/20153195
 
-
-
+PER
+http://www.ncbi.nlm.nih.gov/gene/31251
 
 REFERENCE
 https://www.quantamagazine.org/20150915-circadian-clocks/
