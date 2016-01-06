@@ -29,3 +29,12 @@ http://www.cdc.gov/nchs/deaths.htm
 
 https://www.health.ny.gov/diseases/chronic/vrmdata.htm
 
+
+
+OTHER
+
+Social Network news feeds
+* links from related twitter favorites
+* links from related facebook likes
+* LinkedIn
+* Images, videos, TV, movies, etc.  -- advanced features
