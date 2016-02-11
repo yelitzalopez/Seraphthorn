@@ -72,6 +72,7 @@ Technology
    IBM Terminologies:
    (concepts vs. entities)
    Corpus --> industry specific collections (e.g., health)
+- Wordpress REST API (version 2)
 
 - A.I.
 
