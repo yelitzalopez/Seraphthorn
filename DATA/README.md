@@ -16,7 +16,8 @@ http://www.ncbi.nlm.nih.gov/gene/31251
 REFERENCE
 https://www.quantamagazine.org/20150915-circadian-clocks/
 
-
+How much Exercise?
+http://www.nytimes.com/subscriptions/Multiproduct/lp8QH64.html?articleId=1&WT.mc_id=2016-CPLTEST-FB-MC8-10
 
 
 
