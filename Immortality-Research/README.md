@@ -5,6 +5,7 @@ My hypothesis is that we need to manipulate the energy from Mitochondria using c
 
 Please note that recent discoveries demonstrated that life does not require mitochondria:
 http://www.sciencemag.org/news/2016/05/first-eukaryotes-found-without-normal-cellular-power-supply
+This is an oversimplification but note human cells require mitochondria.
 
 ===========================================================================================================================
 
