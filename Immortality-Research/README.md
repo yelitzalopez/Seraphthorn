@@ -3,6 +3,9 @@ My hypothesis is that we need to manipulate the energy from Mitochondria using c
 
 "mitochondria are responsible for the production of cellular energy by generating ATP through the electron transport chain (ETC) located on the inner mitochondrial membrane" -- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3468885/
 
+Please note that recent discoveries demonstrated that life does not require mitochondria:
+http://www.sciencemag.org/news/2016/05/first-eukaryotes-found-without-normal-cellular-power-supply
+
 ===========================================================================================================================
 
 My hypothesis is that clones share the same soul.
